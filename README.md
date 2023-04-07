@@ -5,16 +5,15 @@ On voudrait réaliser une application complète (Backend + Frontend) de gestion 
 Une note doit être attribuée pour chaque cours. Un professeur enseigne quant à lui plusieurs cours. 
 
 ### Réalisation étape par étape
-On voudrait réaliser l’application avec les fonctionnalités principales suivantes :
-1️⃣ Inscrire un étudiant à l’école
-2️⃣ Inscrire un étudiant à un module
-3️⃣ Inscrire un étudiant à un cours
-4️⃣ Créer un nouveau cours
-5️⃣ Associer un professeur à un cours
-6. Associer une note à un étudiant pour un cours donné
-7. Alerter un professeur périodiquement pour les étudiants en difficulté jusqu’à ce que le tuteur 
-réagisse.
-8. Rechercher un cours par titre
+On voudrait réaliser l’application avec les fonctionnalités principales suivantes :</br>
+1️⃣ Inscrire un étudiant à l’école</br>
+2️⃣ Inscrire un étudiant à un module</br>
+3️⃣ Inscrire un étudiant à un cours</br>
+4️⃣ Créer un nouveau cours</br>
+5️⃣ Associer un professeur à un cours</br>
+6. Associer une note à un étudiant pour un cours donné</br>
+7. Alerter un professeur périodiquement pour les étudiants en difficulté jusqu’à ce que le tuteur réagisse.</br>
+8. Rechercher un cours par titre</br>
 
 ### Consignes générales 
 1️⃣ Former des équipes de deux personnes </br>
@@ -36,3 +35,5 @@ https://www.figma.com/file/3nM7ImJ2Vcc73Z1IoXO2a6/Gestion-%C3%A9cole?node-id=0-1
 
 Un lien vers la page web du site
 
+![Screen du Projet UML](./Back_End/UMLecolegestion.jpg)
+![Screen du Projet UML](./Back_End/TemplateFigma.png)
